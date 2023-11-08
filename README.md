@@ -1,2 +1,2 @@
-# data_analyst_yandex_first_step
+# yandex_data_analyst_start
 Стартовый курс по аналитике данных, не полноценные проекты в начале обучения
